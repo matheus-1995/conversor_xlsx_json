@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/sqlite3": "^3.1.11",
+    "sqlite3": "^5.1.7",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
+}
